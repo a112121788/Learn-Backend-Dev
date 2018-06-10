@@ -4,4 +4,4 @@
 
 ## Ruby on Rails Tutorial
 另一本实用的教程，把之前学的东西整合起来
-<https://www.railstutorial.org/book>
+- <https://www.railstutorial.org/book>
